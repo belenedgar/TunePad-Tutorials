@@ -69,7 +69,7 @@ for i in range(19):
 ```
 
 # Step 4: Bubbles
-- Locate the **Bubbles** cell that was provided in the project. Inside there is a line with a playSound() function that holds the bubble sound
+- Locate the **Bubbles** cell that was provided in the project. Inside you will see a for-loop holding a playSound() function that plays the bubble sound. Everything you write for this step will be inside the for-loop, meaning everything should be indented.
 ```python
 playSound(3538, beats = 0)
 ```
@@ -79,6 +79,7 @@ playSound(3538, beats = 0)
 - Add a rest with beats = 0.5
 - Copy the playSound function line, and create one line where beats = 1
 - Add a rest with beats = 4.75
+- Delete the original playSound() line that was given
 
 # Step 5: Creating the Intro
 - In this section you are going to write the introduction to the song!
