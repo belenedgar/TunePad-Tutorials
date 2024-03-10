@@ -107,6 +107,7 @@ playNote([50, 58], 0)
 rest(1)
 ```
 - The introduction is an 8-beat rhythm, that’s played two times. Below is the sheet music that holds the rhythm for the introduction. We have added the number of beats that each note corresponds to in TunePad. Your job is edit each playNote() line to have the correct number of beats, based on the rhythm in the picture. *Remember that the pattern repeats, so after the first 8 notes, you will need to start the pattern again*
+![pattern](https://github.com/belenedgar/TunePad-Tutorials/blob/3e6cd164a48a33086ea5329a74cb660dfb9bed4b/Pattern_A.png)
 Goal: Understand how to create specific rhythm patterns in TunePad
 
 # Special Challenge: Melody
@@ -235,15 +236,13 @@ playNote(0, 1)
 rest(15)
 ```
 - The picture below is the sheet music for the melody with the name of each note written above it. Your task will be to find what number matches the note name and change the line in TunePad that plays that note with the correct number.
+![melody](https://github.com/belenedgar/TunePad-Tutorials/blob/69c3a96a1767deaab0c2b214e0bbccad77363d82/Melody.png)
 
 
 <a href="/images/stranger-things-fig1.png" target="_blank">
 <img src="/images/stranger-things-fig1.png" alt="Screenshot of a TunePad keyboard instrument" width="450px" style="margin: 1rem;"></a>
 
-![alt text](https://github.com/belenedgar/TunePad-Tutorials/blob/69c3a96a1767deaab0c2b214e0bbccad77363d82/Melody.png)
 
-
-![Alt text](/Users/raspb/Desktop/TunePad-Tutorials/Melody.png)
 
 
 # Try It
