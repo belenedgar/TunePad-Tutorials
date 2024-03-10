@@ -52,7 +52,7 @@ for i in range(10):
     rest(.75)
 ```
 
-# Step 3: Frogs
+# Step 4: Frogs
 - Add a **Drum** cell to the project, select the **Whistles** instrument
 - Add a rest that is 1 beat
 - Add 2 eighth notes playing the *frogs* sound from **Whistles**
@@ -68,7 +68,7 @@ for i in range(19):
     # make sure it's indented
 ```
 
-# Step 4: Bubbles
+# Step 5: Bubbles
 - Locate the **Bubbles** cell that was provided in the project. Inside you will see a for-loop holding a playSound() function that plays the bubble sound. Everything you write for this step will be inside the for-loop, meaning everything should be indented.
 ```python
 for i in range(19):
@@ -82,7 +82,7 @@ for i in range(19):
 - Add a rest with beats = 4.75
 - Delete the original playSound() line that was given
 
-# Step 5: Creating the Intro
+# Step 6: Creating the Intro
 - In this section you are going to write the introduction to the song!
 - Add a **Keys** cell and select the **Marimba** instrument
 - The code below includes the notes for the intro, copy the code into the cell you just created. Notice the beats for each playNote() are zero and will need to be changed!
