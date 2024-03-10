@@ -242,7 +242,9 @@ rest(15)
 # Bonus Step 
 - There's one last bonus step if you decided to complete the Melody!
 - Once you've finished creating each cell, you need to switch to the **Tracks** tab at the top of your project
-- 
+- Click the three dots on your intro track, and then click **duplicate**
+![melody](https://github.com/belenedgar/TunePad-Tutorials/blob/1e739529b2a39961ecc4501680c76155cd82bafb/Bonus_Step.png)
+- At this point you will have two copies of the intro track, leave one at the beginning and drag the other track over so it begins at measure 36, it will say *start: 140 beats*
 
 # Try It
 Open this project in TunePad <a href="{{project}}" target="_blank">{{ project }}</a>
