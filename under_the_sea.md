@@ -2,7 +2,7 @@
 layout: layouts/activity.njk
 tags: tutorials
 category: Tutorial
-title: "Stranger Things Theme"
+title: "Under the Sea - Little Mermaid"
 description: Learn about arpeggios in music and loops in Python by recreating the Stranger Things theme in TunePad
 level: Beginner
 time: 15-20 minutes
@@ -16,15 +16,15 @@ disclaimer: For educational purposes only. Based on Stranger Things Volume 1 by 
 ---
 
 # Step 1: Set up new Project
-Open this [TunePad Project](https://tunepad.com) and remix it so you are able to edit the project (make sure you are signed in to TunePad)
+Open this [TunePad Project](https://tunepad.com/project/76846) and remix it so you are able to edit the project (make sure you are signed in to TunePad)
 
 # Step 2: Drum 1
 - Add a **Drum** cell to the project
 - Select the **909 Drumkit**
 - Create a rest that is 7 beats long
-- Add 2 eigth notes playing the *ride* cymbal from the **909 Drumkit**
+- Add 2 eighth notes playing the *ride* cymbal from the **909 Drumkit**
     - Find which number plays *ride*
-    - Hint: An eigth note is half of 1 beat so... beats = 0.5
+    - Hint: An eighth note is half of 1 beat so... beats = 0.5
 - Put the lines of code you've written in a for-loop as shown below:
 ```python
 for i in range(6):
@@ -34,6 +34,7 @@ for i in range(6):
 
 # Step 3: Drum 2
 - Add a **Drum** cell to the project, select **Percussion Sounds**
+- This section is trying to add more dimension to the song by creating a fun and lively beat to play in the background
 - Copy the code below into the cell
 ```python
 for i in range(10):
@@ -54,7 +55,7 @@ for i in range(10):
 # Step 3: Frogs
 - Add a **Drum** cell to the project, select the **Whistles** instrument
 - Add a rest that is 1 beat
-- Add 2 eigth notes playing the *frogs* sound from **Whistles**
+- Add 2 eighth notes playing the *frogs* sound from **Whistles**
     - Find which number plays *frogs*
 - Add a rest that is 1 beat
 - Add 2 sixteenth notes playing the *frogs* sound from **Whistles**
@@ -237,13 +238,6 @@ rest(15)
 ```
 - The picture below is the sheet music for the melody with the name of each note written above it. Your task will be to find what number matches the note name and change the line in TunePad that plays that note with the correct number.
 ![melody](https://github.com/belenedgar/TunePad-Tutorials/blob/69c3a96a1767deaab0c2b214e0bbccad77363d82/Melody.png)
-
-
-<a href="/images/stranger-things-fig1.png" target="_blank">
-<img src="/images/stranger-things-fig1.png" alt="Screenshot of a TunePad keyboard instrument" width="450px" style="margin: 1rem;"></a>
-
-
-
 
 # Try It
 Open this project in TunePad <a href="{{project}}" target="_blank">{{ project }}</a>
