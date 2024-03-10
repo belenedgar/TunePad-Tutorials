@@ -71,7 +71,8 @@ for i in range(19):
 # Step 4: Bubbles
 - Locate the **Bubbles** cell that was provided in the project. Inside you will see a for-loop holding a playSound() function that plays the bubble sound. Everything you write for this step will be inside the for-loop, meaning everything should be indented.
 ```python
-playSound(3538, beats = 0)
+for i in range(19):
+    playSound(3538, beats = 0)
 ```
 - Copy the playSound function, and create two lines where beats = 0.25
 - Add a rest with beats = 0.25
