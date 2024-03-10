@@ -240,6 +240,8 @@ rest(15)
 <a href="/images/stranger-things-fig1.png" target="_blank">
 <img src="/images/stranger-things-fig1.png" alt="Screenshot of a TunePad keyboard instrument" width="450px" style="margin: 1rem;"></a>
 
+![alt text](https://github.com/[belenedgar]/[TunePad-Tutorials]/blob/[main]/Melody.png?raw=true)
+
 
 
 # Try It
