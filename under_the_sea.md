@@ -239,5 +239,9 @@ rest(15)
 - The picture below is the sheet music for the melody with the name of each note written above it. Your task will be to find what number matches the note name and change the line in TunePad that plays that note with the correct number.
 ![melody](https://github.com/belenedgar/TunePad-Tutorials/blob/69c3a96a1767deaab0c2b214e0bbccad77363d82/Melody.png)
 
+#Bonus Step 
+- There's one last bonus step if you decided to complete the Melody!
+- Once you've finished creating each cell, you need to switch to the **Tracks** tab at the top of your project
+
 # Try It
 Open this project in TunePad <a href="{{project}}" target="_blank">{{ project }}</a>
