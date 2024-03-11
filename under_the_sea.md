@@ -109,7 +109,7 @@ playNote([51, 60], 0)
 playNote([50, 58], 0)
 rest(1)
 ```
-- The introduction is an 8-beat rhythm, that’s played two times. Below is the sheet music that holds the rhythm for the introduction. We have added the number of beats that each note corresponds to in TunePad. Your job is edit each playNote() line to have the correct number of beats, based on the rhythm in the picture. *Remember that the pattern repeats, so after the first 8 notes, you will need to start the pattern again*
+- The introduction is an 8-beat rhythm, that’s played two times. Below is the sheet music that holds the rhythm for the introduction. We have added the number of beats that each note corresponds to in TunePad. Your job is edit each playNote() line to have the correct number of beats, based on the rhythm in the picture. *Remember that the pattern repeats, so after the first 8 beats, you will need to start the pattern again*
 ![pattern](https://github.com/belenedgar/TunePad-Tutorials/blob/3e6cd164a48a33086ea5329a74cb660dfb9bed4b/Pattern_A.png)
 Goal: Understand how to create specific rhythm patterns in TunePad
 
