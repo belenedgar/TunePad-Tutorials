@@ -117,13 +117,13 @@ Goal: Understand how to create specific rhythm patterns in TunePad
 Now we're going to add the melody
 - Add a cell and select the **Brass** instrument (Synth -> Samples -> Brass)
 - Click on the three dots in the right corner of your cell and click on **Toggle Note Names**. This will let you see the note names on the keyboard
-- The code below includes the rhythm for the melody, which you should copy into the cell. Notice that each playNote currently has a 0 for the pitch, this will need to be changed.
+- The code below includes the rhythm for the melody, which you should copy into the cell. The code only provides the correct playNote for the first line, which plays a B flat using the number 58. Notice the rest of the lines have 0 for the pitch of playNote(), this will need to be changed.
 ```python
 rest(16)
 
-for i in range(2): #32
+for i in range(2):
     rest(1)
-    playNote(0, .5)
+    playNote(58, .5)
     playNote(0, 1)
     playNote(0, 1)
     playNote(0, .5)
@@ -142,7 +142,7 @@ for i in range(2): #32
     playNote(0, 1)
     rest(1)
 
-for i in range(2): #32
+for i in range(2):
     rest(1)
     playNote(0, .5)
     playNote(0, 1)
