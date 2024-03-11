@@ -16,13 +16,14 @@ disclaimer: For educational purposes only. Based on Stranger Things Volume 1 by 
 ---
 # Review before getting started
 - How to create a note
-```python
+![playNote](https://github.com/belenedgar/TunePad-Tutorials/blob/71e86251904df254475425e0ce8f667a2a638c84/playNote.png)
 
-```
 - How to create a rest
-```python
-```
+![rest](https://github.com/belenedgar/TunePad-Tutorials/blob/71e86251904df254475425e0ce8f667a2a638c84/rest.png)
+
 - How to play a sound
+![playSound](https://github.com/belenedgar/TunePad-Tutorials/blob/71e86251904df254475425e0ce8f667a2a638c84/playSound.png)
+
 # Step 1: Set up new Project
 Open this [TunePad Project](https://tunepad.com/project/76846) and remix it so you are able to edit the project (make sure you are signed in to TunePad)
 
