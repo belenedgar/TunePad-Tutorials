@@ -14,7 +14,15 @@ project: https://tunepad.com/project/27933
 audio: https://api.tunepad.com/api/projects/27933/audio/
 disclaimer: For educational purposes only. Based on Stranger Things Volume 1 by Kyle Dixon and Michael Stein (2016), Lakeshore and Invada Records.
 ---
+# Review before getting started
+- How to create a note
+```python
 
+```
+- How to create a rest
+```python
+```
+- How to play a sound
 # Step 1: Set up new Project
 Open this [TunePad Project](https://tunepad.com/project/76846) and remix it so you are able to edit the project (make sure you are signed in to TunePad)
 
@@ -250,4 +258,4 @@ rest(15)
 - At this point you will have two copies of the intro track, leave one at the beginning and drag the other track over so it begins at measure 36, it will say *start: 140 beats*
 
 # Try It
-Open this project in TunePad <a href="{{project}}" target="_blank">{{ project }}</a>
+Open this project in TunePad [Under the Sea - Little Mermaid](https://tunepad.com/project/76536)
