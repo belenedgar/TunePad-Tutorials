@@ -3,16 +3,17 @@ layout: layouts/activity.njk
 tags: tutorials
 category: Tutorial
 title: "Under the Sea - Little Mermaid"
-description: Learn about arpeggios in music and loops in Python by recreating the Stranger Things theme in TunePad
+description: Get comfortable with using playNote(), playSound(), and rest() functions in TunePad using different instruments.
+authors: Belén Edgar
 level: Beginner
-time: 15-20 minutes
+time: 30-40 minutes
 license: by-nc-sa
-splash: /images/splash/stranger-things-splash.jpg
-video: https://drive.google.com/file/d/1Er4rBmwG3Jj7FyCdDEIc8GfMkdx-Nuav/view?usp=sharing
-slides: https://docs.google.com/document/d/1GJFpag52fC_8d6yRB6AliR6dF6JXxbo4yqCQENfbcxI/edit?usp=sharing
-project: https://tunepad.com/project/27933
-audio: https://api.tunepad.com/api/projects/27933/audio/
-disclaimer: For educational purposes only. Based on Stranger Things Volume 1 by Kyle Dixon and Michael Stein (2016), Lakeshore and Invada Records.
+splash: 
+video: https://youtu.be/DacjWgbwrtU?si=whxL3xCqvXIjTQEd
+slides: 
+project: 
+audio: https://api.tunepad.com/api/projects/76536/audio/
+disclaimer: For educational purposes only. Based on Under the Sea composed by Alan Menken (1988), Walt Disney.
 ---
 # Review before getting started
 How to create a note:
