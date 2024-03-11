@@ -15,13 +15,13 @@ audio: https://api.tunepad.com/api/projects/27933/audio/
 disclaimer: For educational purposes only. Based on Stranger Things Volume 1 by Kyle Dixon and Michael Stein (2016), Lakeshore and Invada Records.
 ---
 # Review before getting started
-- How to create a note
+How to create a note:
 ![playNote](https://github.com/belenedgar/TunePad-Tutorials/blob/71e86251904df254475425e0ce8f667a2a638c84/playNote.png)
 
-- How to create a rest
+How to create a rest:
 ![rest](https://github.com/belenedgar/TunePad-Tutorials/blob/71e86251904df254475425e0ce8f667a2a638c84/rest.png)
 
-- How to play a sound
+How to play a sound:
 ![playSound](https://github.com/belenedgar/TunePad-Tutorials/blob/71e86251904df254475425e0ce8f667a2a638c84/playSound.png)
 
 # Step 1: Set up new Project
