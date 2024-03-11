@@ -28,6 +28,8 @@ How to play a sound:
 # Step 1: Set up new Project
 Open this [TunePad Project](https://tunepad.com/project/76846) and remix it so you are able to edit the project (make sure you are signed in to TunePad)
 
+If you'd like to follow along with this tutorial on Youtube then [click this link](https://youtu.be/DacjWgbwrtU?si=whxL3xCqvXIjTQEd).
+
 # Step 2: Drum 1
 - Add a **Drum** cell to the project
 - Select the **909 Drumkit**
